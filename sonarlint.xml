@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://sonar.zhonganonline.com" />
+          <option name="name" value="zhongansonar" />
+          <option name="login" value="zhongan" />
+          <password>dfd0dfc2dfc5dfc4dfcddfcbdfc4</password>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
