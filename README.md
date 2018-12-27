@@ -1,0 +1,2 @@
+# ideacfg
+My idea config
